@@ -1,5 +1,6 @@
 {
-  "name": "template",
+  "name": "recipe-app-frontend",
+  "homepage": "https://cameron-hall9292.github.io/recipe-app-frontend/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
